@@ -1,2 +1,4 @@
 # landing-Page
-The Odin Pject
+
+The Odin Project - Foundation course
+Landing page
