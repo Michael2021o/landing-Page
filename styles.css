@@ -32,7 +32,10 @@
   color: #512514;
   font-size: 17px;
   font-weight: 500;
+  position: relative;
+  border-bottom: 2px solid transparent;
 }
+
 .navbar a:hover {
   color: #fff;
   border-bottom: 2px solid #fff;
@@ -41,7 +44,7 @@
 nav {
   display: flex;
   gap: 4rem;
-  padding-right: 80px;
+  padding: 18px 80px;
 }
 .search-bar {
   display: flex;
